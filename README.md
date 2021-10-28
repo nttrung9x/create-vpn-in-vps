@@ -1,4 +1,5 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n6OzFDZl-98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![asciicast](https://asciinema.org/a/113463.png)](https://www.youtube.com/embed/n6OzFDZl-98)
 
 # WIREGUARD VPN SETUP & CONFIG AUTOMATION
 
