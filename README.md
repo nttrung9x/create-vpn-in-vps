@@ -1,6 +1,3 @@
-
-[![asciicast](img.png)](https://www.youtube.com/embed/n6OzFDZl-98)
-
 # WIREGUARD VPN SETUP & CONFIG AUTOMATION
 
 Auto setup & config Wireguard VPN for CentOS 7,8 and Ubuntu Server
@@ -30,3 +27,5 @@ When setup completed, VPN client's configuration file will be found at "/etc/wir
 - https://vietnix.vn/wireguard-la-gi/
 
 Having problem when setup & config Wireguard VPN? Join our Teleram Community (Vietnamese only) at: https://t.me/SinhVienIT for support :)
+
+[![asciicast](img.png)](https://www.youtube.com/embed/n6OzFDZl-98)
