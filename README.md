@@ -1,5 +1,5 @@
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://www.youtube.com/embed/n6OzFDZl-98)
+[![asciicast](img.png)](https://www.youtube.com/embed/n6OzFDZl-98)
 
 # WIREGUARD VPN SETUP & CONFIG AUTOMATION
 
